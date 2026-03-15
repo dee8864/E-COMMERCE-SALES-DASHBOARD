@@ -3,10 +3,10 @@
 "Madhav E-Commerce Sales Dashboard"
 An interactive Power BI report built to monitor, analyze, and derive actionable insights from e-commerce sales data — covering revenue, profit trends, customer behavior, product performance, and regional sales distribution.
 
-2. Short Description: 
+3. Short Description: 
 The Madhav E-Commerce Sales Dashboard is a visually rich and analytically powerful Power BI report designed to give a 360° view of an e-commerce business's performance. It enables business owners, analysts, and decision-makers to track critical KPIs such as total revenue, profit, quantity sold, and Average Order Value (AOV) — all broken down by product category, payment mode, geography, time period, and customer. The dashboard empowers smarter, data-driven decisions by surfacing patterns in purchasing behavior, profitability dips, and regional demand — all within a single, interactive dark-themed interface.
 
-3. Tech Stack:
+4. Tech Stack:
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop — Primary platform used for designing and publishing the interactive report
